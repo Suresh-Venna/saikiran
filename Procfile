@@ -1,0 +1,1 @@
+web: wsgi run:app
